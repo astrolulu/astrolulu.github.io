@@ -1,15 +1,15 @@
 ---
 date: 2017-01-05
-title: Gingernut Cookies
+title: denemeler tatlısı
 categories:
   - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 58 cookies
+  prep: 90 minutes
+  cook: 500 minutes
   ingredients_markdown: |-
-    * 200 g butter
+    * 700 g at yağı
     * 1 cup sugar
     * 1 cup golden syrup
     * 3 cups flour
