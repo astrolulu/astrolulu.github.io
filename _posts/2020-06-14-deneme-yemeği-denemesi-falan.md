@@ -19,6 +19,7 @@ recipe:
     2. second direction blabla
     3. third direction blabla
 ---
-en üst satırda yazan yazı
+These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
+
 ![gorseladı](https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191112123933390_COVER.jpg)
 afiyet olsun.
