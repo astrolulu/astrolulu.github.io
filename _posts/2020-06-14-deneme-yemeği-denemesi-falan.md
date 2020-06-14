@@ -1,6 +1,6 @@
 ---
 date: 2020-06-14
-title: Refsan Yengenin Çıtır Halka simiti
+title: title: deneme yemeği denemesi falan
 categories:
   - tuzlular
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
