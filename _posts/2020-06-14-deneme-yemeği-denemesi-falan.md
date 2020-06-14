@@ -1,25 +1,28 @@
 ---
 date: 2020-06-14
-title: deneme yemeği denemesi falan
+title: Refsan Yengenin Çıtır Halka simiti
 categories:
-  - tatlı
-  - tuzlu
-  - yemek
-  - ebbek
-featured_image: https://images.dog.ceo/breeds/beagle/n02088364_14220.jpg
+  - tuzlular
+featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
 recipe:
-  servings: 30 cookies
-  prep: 30 minutes
-  cook: 30 minutes
+  servings: 12 cupcakes
+  prep: 5 minutes
+  cook: 25 minutes
   ingredients_markdown: |-
-    * ingredient 1
-    * ingredient 2
+    * 1 su bardağı sıvı yağ
+    * 1 su bardağı margarin
+    * 1 su bardağı yoğurt
+    * 1 paket kabartma tozu
+    * 1/2 tsp. baking soda
   directions_markdown: |-
-    1. first direction blablabla
-    2. second direction blabla
-    3. third direction blabla
+    1. Tüm malzemeleri yoğurmaç
+    2. simitleri halka yapıp dizmeç
+    3. 1 saat dinlendirmeç
+    4. yumurta sarısı sürülüp susamlanır
+    5. fırına şey
+
+
 ---
 These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
 
-![gorseladı](https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191112123933390_COVER.jpg)
-afiyet olsun.
+Why not add some popcorn?
